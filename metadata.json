@@ -1,0 +1,6 @@
+{
+  "name": "Climb & Learn: The Scholar's Spire",
+  "description": "An educational precision platformer featuring procedural spire ascents, dynamic jump physics, active recall knowledge challenges, and learning science mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
